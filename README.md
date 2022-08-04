@@ -9,3 +9,7 @@
 
 这里开源他的硬件文件以及测试代码。
 
+如下为实物图：
+
+![实物图1](https://github.com/Allen953/Baize_foc/blob/main/3.Photo/IMG_20220718_110514.jpg)
+
